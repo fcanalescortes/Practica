@@ -58,6 +58,18 @@
         <mxCell id="fUOZnAYa9IWztRi_Jad_-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1030" y="870" width="540" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="fUOZnAYa9IWztRi_Jad_-28" value="LOGO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="80" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fUOZnAYa9IWztRi_Jad_-29" value="Link" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="90" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fUOZnAYa9IWztRi_Jad_-30" value="Link" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="90" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fUOZnAYa9IWztRi_Jad_-31" value="Link" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="90" width="60" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
